@@ -24,4 +24,4 @@ Número de control: 22211664
 
 ### Unidad 1
 ------
-[Investigación] (/workspaces/ProgOO/Unidad I/ParadigmaOO/README.md)
+[Investigación] (./ParadigmaOO/README.md)
