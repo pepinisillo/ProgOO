@@ -4,9 +4,9 @@ Repositorio de actividades y tareas
 ## Portada
 ![](./img/ParadigmaOO/gxaEVLb.png "Logos Oficiales")
 
-### <center> Tecnológico Nacional de México
+### <center> Tecnológico Nacional de México</center>
 ### Instituto Tecnológico de Tijuana 
-### Unidad Tomas Aquino
+### <center>Unidad Tomas Aquino</center>
 
 ### Programación Orientada a Objetos
 ### Generación 2023-1
