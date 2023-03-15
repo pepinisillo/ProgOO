@@ -23,7 +23,5 @@ Número de control: 22211664
 ## Índice
 
 ### Unidad 1
-![Investigación] (./Unidad I/ParadigmaOO/README.md "")
-# ```python
 ------
-```
+[Investigación] (/workspaces/ProgOO/Unidad I/ParadigmaOO/README.md)
