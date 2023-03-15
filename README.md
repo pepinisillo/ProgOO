@@ -2,5 +2,5 @@
 Repositorio de actividades y tareas
 
 ## Portada
-![alt text](https://imgur.com/Z7SO3hm.png "SEP")![alt text](https://imgur.com/PcCcpBP.png "ITT logo")
+![alt text](https://imgur.com/fyi0ixe.png "Logos Oficiales")
 
