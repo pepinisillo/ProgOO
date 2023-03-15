@@ -4,7 +4,7 @@ Repositorio de actividades y tareas
 ## Portada
 ![](./img/ParadigmaOO/gxaEVLb.png "Logos Oficiales")
 
-### Tecnológico Nacional de México
+### <center> Tecnológico Nacional de México
 ### Instituto Tecnológico de Tijuana 
 ### Unidad Tomas Aquino
 
@@ -17,5 +17,5 @@ Repositorio de actividades y tareas
 ### Grupo: 2do C
 ### Número de control: 22211664
 
-### Profesor: Mario García Valdez
+### Profesor: Mario García Valdez</center>
 
