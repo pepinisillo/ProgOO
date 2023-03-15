@@ -4,7 +4,7 @@ Repositorio de actividades y tareas
 ## Portada
 ![](./img/ParadigmaOO/gxaEVLb.png "Logos Oficiales")
 
-Tecnológico Nacional de México  
+<font size= 19 face=Arial>Tecnológico Nacional de México  
 Instituto Tecnológico de Tijuana   
      Unidad Tomas Aquino  
   
@@ -16,6 +16,6 @@ Ingeniería en Sistemas Computacionales
           Grupo: 2do C  
    Número de control: 22211664  
    
- Profesor: Mario García Valdez</center>  
+ Profesor: Mario García Valdez</font> 
   
 <p align="center">papas con catsup</p>
