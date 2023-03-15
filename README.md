@@ -22,6 +22,6 @@ Número de control: 22211664
 
 ## Índice
 
-### Unidad 1
-------
+### Unidad 1  
+------  
 [Investigación] (./ParadigmaOO/README.md)
