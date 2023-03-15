@@ -2,5 +2,5 @@
 Repositorio de actividades y tareas
 
 ## Portada
-![alt text](https://imgur.com/gxaEVLb.png "Logos Oficiales")
+![alt text](./img/ParadigmaOO/gxaEVLb.png "Logos Oficiales")
 
