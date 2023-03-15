@@ -21,8 +21,5 @@ Ingeniería en Sistemas Computacionales
 <p align="center">papas con catsup</p>
 
 ```{r, eval=FALSE}
----
-title: "Cómo usar Rmarkdown"
-<font size = 7 face d= "Arial" color = #1E90FF>Tecnológico Nacional de México</font>
----
+
 ```
