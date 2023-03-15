@@ -19,4 +19,4 @@ Repositorio de actividades y tareas
 
 ### Profesor: Mario García Valdez</center>
 
-<center>papas con catsup</center>
+<p align="center">papas con catsup</p>
