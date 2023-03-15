@@ -20,6 +20,6 @@ Ingeniería en Sistemas Computacionales
   
 <p align="center">papas con catsup</p>
 
-```{r, eval=FALSE}
-
+```{r, echo=FALSE, out.width='70%', fig.align='center', fig.pos="h!"}
+knitr::include_graphics(./img/ParadigmaOO/gxaEVLb.png)
 ```
