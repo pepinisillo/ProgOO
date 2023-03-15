@@ -4,7 +4,7 @@ Repositorio de actividades y tareas
 ## Portada
 ![](./img/ParadigmaOO/gxaEVLb.png "Logos Oficiales")
 
-<p><font size = 7 face d= "Arial" color = #1E90FF>Tecnológico Nacional de México</font></p> 
+Tecnológico Nacional de México
 Instituto Tecnológico de Tijuana   
      Unidad Tomas Aquino  
   
@@ -19,3 +19,4 @@ Ingeniería en Sistemas Computacionales
  Profesor: Mario García Valdez</font> 
   
 <p align="center">papas con catsup</p>
+
