@@ -4,7 +4,7 @@ Repositorio de actividades y tareas
 ## Portada
 ![](./img/ParadigmaOO/gxaEVLb.png "Logos Oficiales")
 
-Tecnológico Nacional de México
+Tecnológico Nacional de México  
 Instituto Tecnológico de Tijuana   
      Unidad Tomas Aquino  
   
@@ -20,6 +20,3 @@ Ingeniería en Sistemas Computacionales
   
 <p align="center">papas con catsup</p>
 
-```{r, echo=FALSE, out.width='70%', fig.align='center', fig.pos="h!"}
-knitr::include_graphics(./img/ParadigmaOO/gxaEVLb.png)
-```
