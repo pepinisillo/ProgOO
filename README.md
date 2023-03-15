@@ -4,7 +4,7 @@ Repositorio de actividades y tareas
 ## Portada
 ![](./img/ParadigmaOO/gxaEVLb.png "Logos Oficiales")
 
-<font size = 7 face d= "Arial" color = #1E90FF>Tecnológico Nacional de México</font>  
+<p><font size = 7 face d= "Arial" color = #1E90FF>Tecnológico Nacional de México</font></p> 
 Instituto Tecnológico de Tijuana   
      Unidad Tomas Aquino  
   
