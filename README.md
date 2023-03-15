@@ -23,5 +23,5 @@ Ingeniería en Sistemas Computacionales
 ## Índice
 
 ### Unidad 1
-[Investigación] (./Unidad I/ParadigmaOO/README.md)
+![Investigación] (./Unidad I/ParadigmaOO/README.md)
 ------
