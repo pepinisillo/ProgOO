@@ -112,7 +112,7 @@ La abstracción nos permite crear un modelo conceptual de un objeto o concepto y
 ***
 El encapsulamiento es un mecanismo por el cual la información que tenemos contenida en un objeto puede ser solamente usada a partir de servicios que nosotros especificamos, asi pues el encapsulamiento nos permite proteger dicha información de modificaciones externas y no deseadas. Asi también como que el uso de esta información puede ser usada en la circunstancia en que nosotros queramos.  
   
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](/img/ParadigmaOO/Encapsulamiento1.png)[^7]![](/img/ParadigmaOO/encapsulamiento2.png)[^8]
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](/img/ParadigmaOO/Encapsulamiento1.png)[^7]![](/img/ParadigmaOO/encapsulamiento2.png)[^8]
 [^7]: João Henrique, ed (10 noviembre, 2020). [«POO: ¿Qué es la programación orientada a objetos?»](https://www.aluracursos.com/blog/poo-que-es-la-programacion-orientada-a-objetos)
 [^8]: Grupo Codesi, ed (s/f). [«Encapsulamiento en Java»](https://www.buscaminegocio.com/cursos-de-java/encapsulamiento-java.html)
   
