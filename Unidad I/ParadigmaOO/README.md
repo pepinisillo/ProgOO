@@ -58,10 +58,13 @@ La sintaxis de un lenguaje influye en cómo los programas son escritos por el pr
 [^2]: GSITIC, ed. (22 diciembre, 2017). [«Lenguajes y paradigmas actuales de programación»](https://gsitic.wordpress.com/2017/12/22/bii4-lenguajes-y-paradigmas-actuales-de-programacion-caracteristicas-tecnicas/) 
   
 ### Programación Orientada a Objetos
+***
 #### ¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron? 
 ### Abstracción
+***
 #### ¿Por qué se considera fundamental en programación? 
 ### Encapsulamiento
+#
 #### Importancia y problemas que puede evitar
 ### Herencia
 
