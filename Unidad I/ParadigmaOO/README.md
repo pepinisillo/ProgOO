@@ -146,22 +146,24 @@ Incluso hay empresas que usan esta herramienta para la creación de diferentes t
 ### Herramientas para el modelado en UML
 ***
 1. [Lucidchart](https://www.lucidchart.com/pages/)
-2. Diagrams
-3. Cacoo
-4. StarUML
-5. Papyrus
-6. Modelio
-7. UMLDesigner
-8. GenmyModel
-9. Gliffy
-10. Diagramo
-11. BPMN
-12. UMLet
-13. Verbatelo
-14. xUML
-15. Umple
+2. [Diagrams](https://app.diagrams.net/)
+3. [Cacoo](https://nulab.com/es/cacoo/)
+4. [StarUML](https://staruml.io/download)
+5. [Papyrus](https://www.eclipse.org/papyrus/)
+6. [Modelio](https://github.com/ModelioOpenSource/Modelio)
+7. [UMLDesigner](https://www.umldesigner.org/download/)
+8. [GenmyModel](https://www.genmymodel.com/)
+9. [Gliffy](https://www.gliffy.com/)
+10. [Diagramo](http://diagramo.com/)
+11. [BPMN](https://bpmn.io/)
+12. [UMLet](https://www.umlet.com/)
+13. [Verbatelo](https://www.vertabelo.com/pricing/)
+14. [xUML](https://xtuml.org/)
+15. [Umple](https://cruise.umple.org/umple/)
+  
 ### Lenguaje de Modelado Unificado
 ***
+
 ### UML de una máquina que vende productos  
 ***
 ### Referencias
