@@ -2,7 +2,9 @@
 ## Paradigma orientado a objetos
 ## Índice
 [Paradigma orientado a objetos](#paradigma-orientado-a-objetos)
-
+[Paradigma en el contexto de lenguajes de programación](#paradigma-en-el-contexto-de-lenguajes-de-programación)
+[Programación Orientada a Objetos](#programación-orientada-a-objetos)
+[]
 ### Paradigma orientado a objetos 
 La programación orientada a objetos o POO es un paradigma de programación que usa objetos y sus interacciones, para diseñar aplicaciones y programas de computadoras. Está basado en varias técnicas, incluyendo herencia, abstracción, polimorfismo y encapsulamiento.  
   
