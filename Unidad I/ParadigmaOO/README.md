@@ -176,6 +176,6 @@ Análisis y desarrollo de herramientas para soporte en la coordinación de roles
   
 ### UML de una máquina que vende productos  
 ***
-ㅤㅤ![](/img/ParadigmaOO/diagrama.jpg)
+ㅤㅤ![](/img/ParadigmaOO/diagrama.png)
   
 ### Referencias
