@@ -176,6 +176,8 @@ Análisis y desarrollo de herramientas para soporte en la coordinación de roles
   
 ### UML de una máquina que vende productos  
 ***
+El siguiente diagrama de clases muestra una máquina expendedora capaz de aceptar diferentes tipos de pagos por parte de una persona; que con su id y edad, se identificará para que de tal manera pueda tener acceso a las bebidas alcohólicas en tal circunstancia. Así pues, cabe destacar igualmente que la máquina a su vez está dividida entre bebidas y comida por separado.  
+  
 ㅤㅤ![](/img/ParadigmaOO/diagrama.png)
   
 ### Referencias
