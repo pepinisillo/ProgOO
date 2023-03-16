@@ -73,3 +73,4 @@ La sintaxis de un lenguaje influye en cómo los programas son escritos por el pr
 ***
 ### UML de una máquina que vende productos  
 ***
+### Referencias
