@@ -11,7 +11,7 @@
 [UML de una máquina que vende productos](#uml-de-una-máquina-que-vende-productos)  
   
 ### Paradigma orientado a objetos 
----
+***
 La programación orientada a objetos o POO es un paradigma de programación que usa objetos y sus interacciones, para diseñar aplicaciones y programas de computadoras. Está basado en varias técnicas, incluyendo herencia, abstracción, polimorfismo y encapsulamiento.    
       
 Un paradigma de programación representa un enfoque particular o filosofía para la construcción del software. No es mejor uno que otro, sino que cada uno tiene ventajas y desventajas.  
@@ -22,6 +22,7 @@ En la POO las entidades centrales son los objetos, que son tipos de datos que en
 
   
 ### Paradigma en el contexto de lenguajes de programación
+***
 Existen muchos paradigmas de programación diferentes, cada uno de ellos tiene sus propias características y tratan de solucionar los problemas clásicos del desarrollo de software desde diferentes perspectivas y filosofías.  
   
 Los paradigmas de programación solo son propuestas tecnológicas adoptadas por la Comunidad de desarrolladores que se enfocan a resolver uno o varios problemas definidos y delimitados. Existen muchos paradigmas de programación diferentes, posiblemente el más ampliamente utilizado hoy en día sea el de la programación orientada a objetos.  
