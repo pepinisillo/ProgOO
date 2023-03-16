@@ -160,6 +160,16 @@ Incluso hay empresas que usan esta herramienta para la creación de diferentes t
 13. [Verbatelo](https://www.vertabelo.com/pricing/)
 14. [xUML](https://xtuml.org/)
 15. [Umple](https://cruise.umple.org/umple/)
+### Empresas locales que usan este lenguaje
+***
+
+El CICESE es una institución de referencia en el contexto científico nacional e internacional, su excelencia académica apoya el desarrollo nacional, la formación de recursos humanos y contribuye a generar el conocimiento que puede coadyuvar en la solución de problemas que afectan el entorno social y económico de México.[^10]
+[^10]: CICESE, ed (s/f). [«Acerca del CICESE»](https://www.cicese.edu.mx/welcome/acerca/)
+  
+Esta institución cuenta con un área de Ciencias de la Computación en ingeniería de procesos y simulación dedicada a:  
+  
+Análisis y desarrollo de herramientas para soporte en la coordinación de roles que caracterizan un proceso, en particular en los aspectos de análisis (simulación) ycoordinación de procesos (workflow). Les interesa el diseño de software Orientado aObjetos utilizando el Lenguaje de Modelado Unificado (UML), y el uso de la tecnología de Internet en el desarrollo de los mismos. Además el modelado de procesos en casos de organizaciones reales visto desde una perspectiva socio-écnica a través de los pasos de una Ingeniería de Procesos que consiste en la captura, modelado, evaluación, rediseño y soporte del proceso, contemplando aspectos de estructura, TI y aspectos de la cultura organizacional.[^11]
+[^11]: Alfredo Hualde, ed (17 mayo, 2006). [«EL CLUSTER DE SOFTWARE EN BAJA CALIFORNIA: DINÁMICA INSTITUCIONAL»](http://www2.izt.uam.mx/amet/vcongreso/webamet/indicedemesa/ponencias/MESA7/hualdeygomism7.pdf)
   
 ### Lenguaje de Modelado Unificado
 ***
