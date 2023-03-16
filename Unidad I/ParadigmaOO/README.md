@@ -125,7 +125,7 @@ De esta forma el usuario de la clase puede obviar la implementación de los mét
 ***
 La herencia es el mecanismo por el cual una clase permite que otras clases hereden sus atributos y métodos, de forma que se reutiliza código y hace los procesos más fáciles y rápidos, en vez de reescribir el mismo código varias veces. Esto hará nuestro código mas legible y práctico.  
   
-  ㅤㅤㅤㅤ![](../../img/ParadigmaOO/her1.png)ㅤㅤ![](../../img/ParadigmaOO/her2.png)[^9]
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](../../img/ParadigmaOO/her1.png)ㅤㅤ![](../../img/ParadigmaOO/her2.png)[^9]
 [^9]:  Comunidad Java User Group - Nicaragua, ed (24 de noviembre, de 2019). [«¿Por qué utilizar composición sobre la herencia en POO?»](https://jugnicaragua.org/composicion-sobre-la-herencia/)
   
 ## UML: Diagrama de clases
