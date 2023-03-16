@@ -21,7 +21,6 @@ En la POO las entidades centrales son los objetos, que son tipos de datos que en
 [^1]:Miguel Martínez Martínez y Raul Romero Mañuz, ed. (s/f). [«La programación orientada a objetos»](http://dis.um.es/~lopezquesada/documentos/IES_1415/IAW/curso/UT3/ActividadesAlumnos/java7/paginas/pag1.html)  
 
   
-    
 ### Paradigma en el contexto de lenguajes de programación
 ***
 Existen muchos paradigmas de programación diferentes, cada uno de ellos tiene sus propias características y tratan de solucionar los problemas clásicos del desarrollo de software desde diferentes perspectivas y filosofías.  
