@@ -117,7 +117,10 @@ El encapsulamiento es un mecanismo por el cual la información que tenemos conte
 [^8]: Grupo Codesi, ed (s/f). [«Encapsulamiento en Java»](https://www.buscaminegocio.com/cursos-de-java/encapsulamiento-java.html)
   
 #### Importancia y problemas que puede evitar
-
+El aislamiento protege a los datos asociados a un objeto contra su modificación por quien no tenga derecho a acceder a ellos, eliminando efectos secundarios e interacciones.  
+  
+De esta forma el usuario de la clase puede obviar la implementación de los métodos y propiedades para concentrarse sólo en cómo usarlos. Por otro lado se evita que el usuario pueda cambiar su estado de maneras imprevistas e incontroladas.  
+  
 ### Herencia
 ***
 ## UML: Diagrama de clases
