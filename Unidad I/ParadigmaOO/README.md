@@ -79,7 +79,28 @@ Ventajas de la programación orientada a objetos:
   
   
 #### ¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron? 
+Smalltalk es considerado el primero de los lenguajes orientados a objetos, aunque en realidad el primero en implementar programación orientada a objetos fue Simula. En Smalltalk todo es un objeto, incluidos los números reales o el propio entorno Smalltalk.  
+  
+Propuesto en 1980, Smalltalk es el primer lenguaje orientado a objetos disponible con un entorno de desarrollo gráfico integrado. Smalltalk fue diseñado por el equipo del americano Alan Kay, del centro de investigación informática californiana de XEROX (el famoso Palo Alto Research Center).[^4]
+[^4]: Éditions ENI, ed. (s/f). [«Historia de la POO»](https://www.ediciones-eni.com/open/mediabook.aspx?idR=dbba30cf4ffac2993c1495a629f282df)  
+  
+Como lenguaje tiene las siguientes características:  
+  
+- Orientación a Objetos  
+- Tipado dinámico  
+- Interacción entre objetos mediante envío de mensajes  
+- Herencia simple y con raíz común  
+- Reflexión computacional completa  
+- Recolección de basura  
+- Compilación en tiempo de ejecución o Interpretado (dependiendo de la distribución o del proveedor)  
+- Múltiples Implementaciones  
+  
+Smalltalk ha tenido gran influencia sobre otros lenguajes como Java o Ruby, y de su entorno han surgido muchas de las prácticas y herramientas de desarrollo promulgadas actualmente por las metodologías ágiles (refactorización, desarrollo incremental, desarrollo dirigido por tests, etc.).[^5]
+[^5]: Wikipedia, ed (23 diciembre, 2022). [«Smalltalk»](https://es.wikipedia.org/wiki/Smalltalk)  
+  
+  
 ### Abstracción
+
 ***
 #### ¿Por qué se considera fundamental en programación? 
 ### Encapsulamiento
