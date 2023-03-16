@@ -112,7 +112,7 @@ La abstracción nos permite crear un modelo conceptual de un objeto o concepto y
 ***
 El encapsulamiento es un mecanismo por el cual la información que tenemos contenida en un objeto puede ser solamente usada a partir de servicios que nosotros especificamos, asi pues el encapsulamiento nos permite proteger dicha información de modificaciones externas y no deseadas. Asi también como que el uso de esta información puede ser usada en la circunstancia en que nosotros queramos.  
   
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](/img/ParadigmaOO/Encapsulamiento1.png)![](/img/ParadigmaOO/encapsulamiento2.png)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](/img/ParadigmaOO/Encapsulamiento1.png)![](/img/ParadigmaOO/encapsulamiento2.png)
 
 #### Importancia y problemas que puede evitar
 
