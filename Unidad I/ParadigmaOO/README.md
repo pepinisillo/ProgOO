@@ -32,17 +32,17 @@ Otros lenguajes han sido diseñados para soportar un único paradigma de program
   
 Es común el diseño de lenguajes que soporten múltiples paradigmas de programación. Estos lenguajes son aquellos que soportan al menos dos paradigmas:  
   
-Scala: Imperativo, orientado a objetos, funcional, genérico y concurrente  
-Erlang: Funcional, orientado a objetos y funcional  
-Perl: Imperativo, orientado a objetos y funcional  
-PHP: Imperativo, orientado a objetos, funcional y reflexivo  
-JavaScript: Imperativo, orientado a objetos (prototipos) y funcional  
-Java: Imperativo, orientado a objetos, reflexivo y genérico  
-Python y Ruby: Imperativo, orientado a objetos, reflexivo y funcional  
-C++: Imperativo, orientado a objetos, funcional y genérico  
-C#: Imperativo, orientado a objetos, funcional (lambda), reflexivo y genérico  
-Lisp: Orientado a objetos, funcional y declarativo  
-Prolog: Lógico y declarativo  
+- **Scala:** Imperativo, orientado a objetos, funcional, genérico y concurrente  
+- **Erlang:** Funcional, orientado a objetos y funcional  
+- **Perl:** Imperativo, orientado a objetos y funcional  
+- **PHP:** Imperativo, orientado a objetos, funcional y reflexivo  
+- **JavaScript:** Imperativo, orientado a objetos (prototipos) y funcional  
+- **Java:** Imperativo, orientado a objetos, reflexivo y genérico  
+- **Python y Ruby:** Imperativo, orientado a objetos, reflexivo y funcional  
+- **C++:** Imperativo, orientado a objetos, funcional y genérico  
+- **C#:** Imperativo, orientado a objetos, funcional (lambda), reflexivo y genérico  
+- **Lisp:** Orientado a objetos, funcional y declarativo  
+- **Prolog:** Lógico y declarativo  
 Estos son algunos ejemplos, existen lenguajes como Oz que soporta nueve paradigmas de programación.  
   
 Paradigmas de programación  
