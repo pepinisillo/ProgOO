@@ -64,11 +64,11 @@ La sintaxis de un lenguaje influye en cómo los programas son escritos por el pr
 ***
 #### ¿Por qué se considera fundamental en programación? 
 ### Encapsulamiento
-#
+***
 #### Importancia y problemas que puede evitar
 ### Herencia
-
+***
 ## UML: Diagrama de clases
 ### Lenguaje de Modelado Unificado
-### UML de una máquina que vende productos
-
+***
+### UML de una máquina que vende productos  
