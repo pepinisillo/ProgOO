@@ -129,6 +129,8 @@ La herencia es el mecanismo por el cual una clase permite que otras clases hered
 [^9]:  Comunidad Java User Group - Nicaragua, ed (24 de noviembre, de 2019). [«¿Por qué utilizar composición sobre la herencia en POO?»](https://jugnicaragua.org/composicion-sobre-la-herencia/)
   
 ## UML: Diagrama de clases
+### Lenguaje de Modelado Unificado
+***
 El lenguaje UML comenzó a gestarse en octubre de 1994 [1], cuando Rumbaugh se unió a la compañía Rational fundada por Booch (dos reputados investigadores en el área de metodología del software). El objetivo de ambos era unificar dos métodos que habían desarrollado: el método Booch y el OMT (Object Modelling Tool ). El primer borrador apareció en octubre de 1995. En esa misma época otro reputado investigador, Jacobson, se unió a Rational y se incluyeron ideas suyas. Estas tres personas son conocidas como los “tres amigos”. Además, este lenguaje se abrió a la colaboración de otras empresas para que aportaran sus ideas. Todas estas colaboraciones condujeron a la definición de la primera versión de UML.  
 
 Esta primera versión se ofreció a un grupo de trabajo para convertirlo en 1997 en un estándar del OMG (Object Management Group). Este grupo, que gestiona estándares relacionados con la tecnología orientada a objetos (metodologías, bases de datos objetuales, 
@@ -171,9 +173,6 @@ Esta institución cuenta con un área de Ciencias de la Computación en ingenier
 Análisis y desarrollo de herramientas para soporte en la coordinación de roles que caracterizan un proceso, en particular en los aspectos de análisis (simulación) ycoordinación de procesos (workflow). Les interesa el diseño de software Orientado aObjetos utilizando el Lenguaje de Modelado Unificado (UML), y el uso de la tecnología de Internet en el desarrollo de los mismos. Además el modelado de procesos en casos de organizaciones reales visto desde una perspectiva socio-écnica a través de los pasos de una Ingeniería de Procesos que consiste en la captura, modelado, evaluación, rediseño y soporte del proceso, contemplando aspectos de estructura, TI y aspectos de la cultura organizacional.[^11]
 [^11]: Alfredo Hualde, ed (17 mayo, 2006). [«EL CLUSTER DE SOFTWARE EN BAJA CALIFORNIA: DINÁMICA INSTITUCIONAL»](http://www2.izt.uam.mx/amet/vcongreso/webamet/indicedemesa/ponencias/MESA7/hualdeygomism7.pdf)
   
-### Lenguaje de Modelado Unificado
-***
-
 ### UML de una máquina que vende productos  
 ***
 ### Referencias
