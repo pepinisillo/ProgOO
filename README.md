@@ -18,7 +18,7 @@ Número de control: 22211664
    
 Profesor: Mario García Valdez
   
-<p align="center">papas con catsup</p>
+
 
 ## Índice
 
