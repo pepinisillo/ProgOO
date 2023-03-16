@@ -100,11 +100,17 @@ Smalltalk ha tenido gran influencia sobre otros lenguajes como Java o Ruby, y de
   
   
 ### Abstracción
-
 ***
+La abstracción es aquella eliminación de información no relevante en un contexto en específico, así pues, la abstracción capta aquellas funciones y características que se desempeña mejor un cierto objeto. Entonces, dependiendo del problema a solucionar, se escogen y usan tales funciones y características que puedan satisfacer dicho problema, puesto que es lo necesario para poder solucionarlo.  
+  
 #### ¿Por qué se considera fundamental en programación? 
+La abstracción nos permite crear un modelo conceptual de un objeto o concepto y luego utilizar ese modelo para crear objetos más específicos que heredan las características y comportamientos del modelo conceptual. Esto nos permite reutilizar código y simplificar la creación de objetos complejos.[^6]
+[^6]: Cursosdesarrolloweb, ed (24 diciembre, 2022). [<«Abstracción en la programación orientada a objetos»](https://www.cursosdesarrolloweb.es/blog/abstraccion-programacion-orientada-objetos#:~:text=La%20abstracci%C3%B3n%20nos%20permite%20crear,la%20creaci%C3%B3n%20de%20objetos%20complejos.)  
+  
+    
 ### Encapsulamiento
 ***
+
 #### Importancia y problemas que puede evitar
 ### Herencia
 ***
