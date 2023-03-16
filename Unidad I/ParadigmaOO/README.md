@@ -145,7 +145,21 @@ Incluso hay empresas que usan esta herramienta para la creación de diferentes t
 
 ### Herramientas para el modelado en UML
 ***
-
+[Web] Lucidchart:  Es una herramienta muy completa; ya que no solamente podrás crear diagramas UML, sino múltiples diseños como: wireframes, canvas, redes de datos, entre otros. Adicionalmente cuenta con licencias gratuitas, de costo y académicas.
+[Web] Diagrams: Una de las peculiaridades que posee, es la capacidad de respaldar tus diagramas en diferentes fuentes coo: google drive, github, dropbox,one drive. Es una buenisima herramienta puedes crear infinidad de diagramas y/o diseños de: redes, negocios, software, infografias, iconos,etc
+[Web] Cacoo: Es una herramienta de diseño colaborativo. Es de costo y tiene su versión gratuita. Contribuye a la lluvia de ideas y mejora continua de productos. Permite trabajar con diseños de AWS, Visio y multiples integraciones como: Google drive, Adobe Creative Cloud y Confluence
+[MacOS, Windows, Linux] StarUML: Todo un clásico, enfocado en el diagramado UML ágil. Cuenta con manejo de extensiones en distintos lenguajes de programación , generación de código de programación, entre otros
+[MacOS, Windows, Linux] Papyrus: Un complemento perfecto si estas trabajando con el IDE Eclipse; ya que además de permitirte diseñar tus diagramas los podrás implementar en un entorno de programación. Contiene herramientas para visualizar la ejecución en tiempo real de tus diagramas
+[MacOS, Windows, Linux] Modelio: Tiene un amplio soporte de modelado en: UML, BPMN, ArchiMate,SysML. Puedes realizar ingenieria inversa para crear tus diagramas, entre muchas otras funcionalidades.
+[MacOS, Windows, Linux] UMLDesigner: Una herramienta muy completa con amplio soporte de lenguajes de programación e interfaz con muy buen usabilidad
+[Web] GenmyModel:  Buenisima herramienta web para modelar datos, te permite crear diagramas UML,BPMN, ArchiMate, Journey Mapping, diagramas de flujo y muchas más.
+[Web] Gliffy:  Es una herramienta muy completa, posee integración con una de las mejores plataformas de gestión de proyectos del mercado Atlassian, lamentablemente tiene un  costo, pero si esta entre tus posibilidades esta deberia una opción
+[Web] Diagramo: Es una herramienta desarrollada en HTML5 , permite colaborar, exportar tus diseños en distintos formatos y apoyarte en los distintos diagramas que son creados continuamente en la comunidad.
+[Web] BPMN: Es una herramienta netamente basada en el modelado de negocios, creación de reglas de negocio. Requiere un expertise en programación, debido a las funcionalidades de adaptación y creación que posee.
+[Windows] UMLet: Quizá no sea la herramienta más bonita visualmente, pero te puede sacar de cualquier apuro que tengas al momento de crear tus diagramas UML. Una de sus caracteristicas destacables es la documentación que te ayuda paso a paso en tus diseños.
+[Web]Verbatelo: Amplio soporte con bases de datos como: Oracle 11g,MySQL 5.5,PostgreSQL 9.x,SQLite 3.7.x,IBM DB2 9.7,MS SQL Server,HSQLDB 2.3,Amazon Redshift. Permite colaborar en equipo, aplicar ingenieria inversa, generar archivos SQL y muy buena usabilidad.Tiene costo económico,pero si eres estudianteo o profesor la herramienta la podrás utilizar gratis.
+[MacOS, Windows, Linux] xUML: Es una muy buena herramienta con apoyo de la comunidad. Utiliza lenguaje acción objeto como parte indispensable para acceso a datos, generación de eventos,pruebas, transformaciones,etc. Posee un compilador del modelo con soporte en C y C++
+[Web, Windows, Linux,MacOS]Umple:Es una herramienta de modelado y una familia de lenguajes de programación que permite lo que llamamos Programación Orientada a Modelos. Añade abstracciones como Asociaciones, Atributos y Máquinas de Estado derivadas de UML a lenguajes de programación orientados a objetos como Java, C++, PHP y Ruby.
 ### Lenguaje de Modelado Unificado
 ***
 ### UML de una máquina que vende productos  
