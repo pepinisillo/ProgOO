@@ -18,7 +18,7 @@ Un paradigma de programación representa un enfoque particular o filosofía para
   
 En la POO las entidades centrales son los objetos, que son tipos de datos que encapsulan con el mismo nombre estructuras de datos, operaciones o algoritmos que manipulan esos datos.[^1]  
 
-[^1]: GSITIC, ed. (22 diciembre, 2017). [La programación orientada a objetos](http://dis.um.es/~lopezquesada/documentos/IES_1415/IAW/curso/UT3/ActividadesAlumnos/java7/paginas/pag1.html)  
+[^1]:Miguel Martínez Martínez y Raul Romero Mañuz, ed. (s/f). [La programación orientada a objetos](http://dis.um.es/~lopezquesada/documentos/IES_1415/IAW/curso/UT3/ActividadesAlumnos/java7/paginas/pag1.html)  
 
   
 ### Paradigma en el contexto de lenguajes de programación
@@ -54,7 +54,7 @@ Cada lenguaje tiene sintaxis y semántica:
 - La sintaxis de un lenguaje de programación está relacionada con la forma de los programas, por ejemplo, las expresiones, comandos, declaraciones, etc. son puestos juntos en un programa.  
 - La semántica de un lenguaje de programación está relacionada con el significado de los programas, por ejemplo, cómo se comportarán cuando se ejecutan en una computadora.  
 La sintaxis de un lenguaje influye en cómo los programas son escritos por el programador, leídos por otro programador y traducidos por el computador. La semántica de un lenguaje determina como los programas son compuestos por el programador, entendidos por otros programadores e interpretados por el computador.[^2]
-[^2]: [Lenguajes y paradigmas actuales de programación](https://gsitic.wordpress.com/2017/12/22/bii4-lenguajes-y-paradigmas-actuales-de-programacion-caracteristicas-tecnicas/) 
+[^2]: GSITIC, ed. (22 diciembre, 2017). [«Lenguajes y paradigmas actuales de programación»](https://gsitic.wordpress.com/2017/12/22/bii4-lenguajes-y-paradigmas-actuales-de-programacion-caracteristicas-tecnicas/) 
   
 ### Programación Orientada a Objetos
 #### ¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron? 
