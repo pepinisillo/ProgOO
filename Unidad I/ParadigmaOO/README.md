@@ -8,9 +8,10 @@ La programación orientada a objetos o POO es un paradigma de programación que 
   
 Un paradigma de programación representa un enfoque particular o filosofía para la construcción del software. No es mejor uno que otro, sino que cada uno tiene ventajas y desventajas.  
   
-En la POO las entidades centrales son los objetos, que son tipos de datos que encapsulan con el mismo nombre estructuras de datos, operaciones o algoritmos que manipulan esos datos.  
-
+En la POO las entidades centrales son los objetos, que son tipos de datos que encapsulan con el mismo nombre estructuras de datos, operaciones o algoritmos que manipulan esos datos.[^1]  
+[^1]: [La programación orientada a objetos](http://dis.um.es/~lopezquesada/documentos/IES_1415/IAW/curso/UT3/ActividadesAlumnos/java7/paginas/pag1.html)
 ### Paradigma en el contexto de lenguajes de programación
+
 ### Programación Orientada a Objetos
 #### ¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron? 
 ### Abstracción
@@ -22,3 +23,4 @@ En la POO las entidades centrales son los objetos, que son tipos de datos que en
 ## UML: Diagrama de clases
 ### Lenguaje de Modelado Unificado
 ### UML de una máquina que vende productos
+
