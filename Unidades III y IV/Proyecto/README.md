@@ -8,7 +8,7 @@ Este juego fue a partir de métodos que fueron llamados a su respectivo momento,
 
 ## UML del proyecto
 
-![](/img/Proyecto%20/uml_juego.png)
+                                    ![](/img/Proyecto%20/uml_juego.png)
 
 ## Material de apoyo y referencias
 
