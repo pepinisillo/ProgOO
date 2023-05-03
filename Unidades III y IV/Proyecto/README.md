@@ -11,7 +11,7 @@ Este juego fue a partir de métodos que fueron llamados a su respectivo momento,
 ![](/img/Proyecto%20/uml_juego.png)
 
 ## Link del juego en p5
-<iframe src="https://editor.p5js.org/pepinisillo/full/H5JHNkHkv"></iframe>
+Link del <a href="https://editor.p5js.org/pepinisillo/full/H5JHNkHkv">Juego</a> en p5
 
 ## Material de apoyo y referencias
 
