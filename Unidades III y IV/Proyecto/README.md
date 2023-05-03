@@ -10,6 +10,9 @@ Este juego fue a partir de métodos que fueron llamados a su respectivo momento,
 
 ![](/img/Proyecto%20/uml_juego.png)
 
+## Link del juego en p5
+<iframe src="https://editor.p5js.org/pepinisillo/full/H5JHNkHkv"></iframe>
+
 ## Material de apoyo y referencias
 
 Music by <a href="https://pixabay.com/es/users/k00sin-8059346/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=142242">K00sin</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=142242">Pixabay</a>  
